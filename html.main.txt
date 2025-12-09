@@ -1,0 +1,67 @@
+<html>
+
+html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Home Page</title>
+
+<link rel="stylesheet" href="Navigation-menu.css">
+
+</head>
+
+<body style="background-color: lightgreen;">
+
+<nav class="navbar"> I
+
+<div class="logo">MyWebsite</div>
+
+<ul class="nav-links">
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#services">Services</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+ </body>
+
+ul{text-align: center;
+
+font-size:30px
+
+background-color: darkkhaki;
+
+li{display:inline;
+
+size:30px;}
+
+div{font-size:30px;
+
+
+}
+
+
+text-align: center;
+
+width: 100%; Theight: 30px;
+
+background-color: beige;
+
+color: Black;
+
+margin-top: 10px;
+
+margin-bottom: 10px;}
+
+body{ background-color: lightsalmon;}
